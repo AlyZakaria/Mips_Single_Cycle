@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/ALU_Test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/Adder_test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/Alu_Control_test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/Alu_Mux_Test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/Data_Memory_test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/Instruction_Test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/MemReg_Mux_Test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/Memory_Mux_Test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/Pc_Mux_Test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/RegFile_test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/Shift_left_test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/Sign_Extend_test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/controlunit_test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/pc_test.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Mips_Single_Cycle/shift_left_32_32_test.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+

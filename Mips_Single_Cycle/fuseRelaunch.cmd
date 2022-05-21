@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Single_Cycle_isim_beh.exe" -prj "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Single_Cycle_beh.prj" "work.Single_Cycle" 

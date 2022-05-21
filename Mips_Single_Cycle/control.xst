@@ -1,0 +1,5 @@
+set -tmpdir "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/xst/projnav.tmp"
+set -xsthdpdir "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/xst"
+elaborate
+-ifn control.prj
+-ifmt mixed

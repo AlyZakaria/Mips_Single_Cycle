@@ -1,0 +1,50 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Single_Cycle_isim_beh.exe -prj E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Single_Cycle_beh.prj work.Single_Cycle 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Sign_Extend.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/shift_left_32_32.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/RegFile.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Pc_Mux.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Pc_Adder.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Pc.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/MemReg_Mux.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Memory_Mux.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Instruction_Memory.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Data_Memory.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Control_unit.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Alu_Mux.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Alu_Control.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/ALU.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Adder.vhd" into library work
+Parsing VHDL file "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Single_Cycle.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity Pc [pc_default]
+Compiling architecture behavioral of entity Pc_Adder [pc_adder_default]
+Compiling architecture behavioral of entity Adder [adder_default]
+Compiling architecture behavioral of entity Instruction_Memory [instruction_memory_default]
+Compiling architecture behavioral of entity control [control_default]
+Compiling architecture behavioral of entity MemReg_Mux [memreg_mux_default]
+Compiling architecture behavioral of entity Memory_Mux [memory_mux_default]
+Compiling architecture behavioral of entity Alu_Mux [alu_mux_default]
+Compiling architecture behavioral of entity Pc_Mux [pc_mux_default]
+Compiling architecture behavioral of entity RegFile [regfile_default]
+Compiling architecture behavioral of entity Sign_Extend [sign_extend_default]
+Compiling architecture behavioral of entity shift_left_32_32 [shift_left_32_32_default]
+Compiling architecture behavioral of entity Alu_Control [alu_control_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity Data_Memory [data_memory_default]
+Compiling architecture behavioral of entity single_cycle
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 36 VHDL Units
+Built simulation executable E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/Mips_Single_Cycle/Single_Cycle_isim_beh.exe
+Fuse Memory Usage: 39372 KB
+Fuse CPU Usage: 937 ms

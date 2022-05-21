@@ -1,0 +1,41 @@
+Release 14.7 Map P.20131013 (nt64)
+Xilinx Mapping Report File for Design 'RegFile'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off
+-c 100 -o RegFile_map.ncd RegFile.ngd RegFile.pcf 
+Target Device  : xc3s400
+Target Package : pq208
+Target Speed   : -4
+Mapper Version : spartan3 -- $Revision: 1.55 $
+Mapped Date    : Sat May 21 03:04:40 2022
+
+Design Summary
+--------------
+Number of errors   :   1
+Number of warnings :   0
+
+Section 1 - Errors
+------------------
+ERROR:Security:9c - No 'ISE' nor 'WebPack' feature version 2013.10 was available
+for part 'xc3s400'.
+ERROR:Map:258 - A problem was encountered attempting to get the license for this
+   architecture. 
+
+Section 2 - Warnings
+--------------------
+WARNING:Security:43 - No license file was found in the standard Xilinx license
+directory.
+WARNING:Security:44 - Since no license file was found,
+
+Section 3 - Informational
+-------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to
+'E:\semster
+5\Xilinx_ISE_Design_Suite_v14.7\Xilinx_ISE_Design_Suite_v14.7\ISE147_Crack'.
+INFO:Security:52 - The LM_LICENSE_FILE environment variable is set to
+'E:\semster
+5\Xilinx_ISE_Design_Suite_v14.7\Xilinx_ISE_Design_Suite_v14.7\ISE147_Crack'.
+INFO:Security:54 - 'xc3s400' is a WebPack part.
+INFO:Security:68a - user is Ali Zakaria, on host LAPTOP-77GDMCDC.

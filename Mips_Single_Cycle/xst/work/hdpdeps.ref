@@ -1,0 +1,127 @@
+V3 67
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/alu/ALU.vhd" 2022/02/28.10:02:23 P.20131013
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Adder.vhd" 2022/04/04.11:34:48 P.20131013
+EN work/Adder 1651889533 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Adder.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Adder/Behavioral 1651889534 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Adder.vhd" \
+      EN work/Adder 1651889533
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/ALU.vhd" 2022/02/28.10:02:23 P.20131013
+EN work/ALU 1651889555 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/ALU.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ALU/Behavioral 1651889556 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/ALU.vhd" \
+      EN work/ALU 1651889555
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Alu_Control.vhd" 2022/03/07.10:06:31 P.20131013
+EN work/Alu_Control 1651889553 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Alu_Control.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Alu_Control/Behavioral 1651889554 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Alu_Control.vhd" \
+      EN work/Alu_Control 1651889553
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Alu_Mux.vhd" 2022/05/05.05:17:30 P.20131013
+EN work/Alu_Mux 1651889543 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Alu_Mux.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Alu_Mux/Behavioral 1651889544 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Alu_Mux.vhd" \
+      EN work/Alu_Mux 1651889543
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Control_Unit.vhd" 2022/05/05.22:35:05 P.20131013
+EN work/control 1651889537 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Control_Unit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/control/Behavioral 1651889538 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Control_Unit.vhd" \
+      EN work/control 1651889537
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Data_Memory.vhd" 2022/05/07.03:59:53 P.20131013
+EN work/Data_Memory 1651889557 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Data_Memory.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Data_Memory/Behavioral 1651889558 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Data_Memory.vhd" \
+      EN work/Data_Memory 1651889557
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Instruction_Memory.vhd" 2022/05/07.04:10:04 P.20131013
+EN work/Instruction_Memory 1651889535 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Instruction_Memory.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Instruction_Memory/Behavioral 1651889536 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Instruction_Memory.vhd" \
+      EN work/Instruction_Memory 1651889535
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Memory_Mux.vhd" 2022/05/05.05:24:23 P.20131013
+EN work/Memory_Mux 1651889541 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Memory_Mux.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Memory_Mux/Behavioral 1651889542 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Memory_Mux.vhd" \
+      EN work/Memory_Mux 1651889541
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/MemReg_Mux.vhd" 2022/05/07.01:34:22 P.20131013
+EN work/MemReg_Mux 1651889539 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/MemReg_Mux.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/MemReg_Mux/Behavioral 1651889540 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/MemReg_Mux.vhd" \
+      EN work/MemReg_Mux 1651889539
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Pc.vhd" 2022/05/05.04:43:03 P.20131013
+EN work/Pc 1651889529 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Pc.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Pc/Behavioral 1651889530 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Pc.vhd" \
+      EN work/Pc 1651889529
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Pc_Adder.vhd" 2022/05/05.21:36:46 P.20131013
+EN work/Pc_Adder 1651889531 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Pc_Adder.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Pc_Adder/Behavioral 1651889532 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Pc_Adder.vhd" \
+      EN work/Pc_Adder 1651889531
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Pc_Mux.vhd" 2022/05/05.05:02:04 P.20131013
+EN work/Pc_Mux 1651889545 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Pc_Mux.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Pc_Mux/Behavioral 1651889546 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Pc_Mux.vhd" \
+      EN work/Pc_Mux 1651889545
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/RegFile.vhd" 2022/05/21.01:24:11 P.20131013
+EN work/RegFile 1653095071 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/RegFile.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/RegFile/Behavioral 1653095072 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/RegFile.vhd" \
+      EN work/RegFile 1653095071
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Shift_left.vhd" 2022/04/04.10:59:22 P.20131013
+EN work/Shift_left 1649062763 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Shift_left.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Shift_left/Behavioral 1649062764 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Shift_left.vhd" \
+      EN work/Shift_left 1649062763
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/shift_left_32_32.vhd" 2022/04/04.11:13:27 P.20131013
+EN work/shift_left_32_32 1651889551 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/shift_left_32_32.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/shift_left_32_32/Behavioral 1651889552 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/shift_left_32_32.vhd" \
+      EN work/shift_left_32_32 1651889551
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Sign_Extend.vhd" 2022/04/04.10:54:48 P.20131013
+EN work/Sign_Extend 1651889549 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Sign_Extend.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Sign_Extend/Behavioral 1651889550 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Sign_Extend.vhd" \
+      EN work/Sign_Extend 1651889549
+FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Single_Cycle.vhd" 2022/05/07.04:12:07 P.20131013
+EN work/Single_Cycle 1651889559 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Single_Cycle.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Single_Cycle/Behavioral 1651889560 \
+      FL "E:/Semester 6/Computer Archt/Lab/Xilinx_ISE_Design_Suite_v14.7/lab_6/alu/Single_Cycle.vhd" \
+      EN work/Single_Cycle 1651889559 CP Pc CP Pc_Adder CP Adder \
+      CP Instruction_Memory CP control CP MemReg_Mux CP Memory_Mux CP Alu_Mux \
+      CP Pc_Mux CP RegFile CP Sign_Extend CP shift_left_32_32 CP Alu_Control CP ALU \
+      CP Data_Memory
